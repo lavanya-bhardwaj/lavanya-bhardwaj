@@ -1,7 +1,5 @@
-# hey, i'm lav💗
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Lavv;c+java+python+html+css+js+figma)](https://git.io/typing-svg)
 btech cse student @ sharda '29
-
-### tech i'm using
 html • css • javascript • python • c • java
 
 ### you can find me on LinkedIn:
