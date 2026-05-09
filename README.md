@@ -1,16 +1,20 @@
-## Hi there 👋
+# hey, i'm lav
 
-<!--
-**lavanya-bhardwaj/lavanya-bhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+btech cse student @ sharda '29
 
-Here are some ideas to get you started:
+### currently
+- learning java
+- learning react
+- building javascript projects
+- making my github look less chaotic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### you can find me on LinkedIn:
+www.linkedin.com/in/lavanya-bhardwaj-codes
+
+### tech i'm using
+html • css • javascript • python • c • java
+
+### goals for this summer
+- build projects i actually love
+- contribute consistently 
+- get good enough for internships maybe
