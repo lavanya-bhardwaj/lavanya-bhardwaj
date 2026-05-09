@@ -7,4 +7,5 @@ www.linkedin.com/in/lavanya-bhardwaj-codes
 - build projects i actually love
 - contribute consistently 
 - get good enough for internships
-![Lav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanya-bhardwaj&show_icons=true&theme=tokyonight)
+  
+![Lav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanya-bhardwaj&show_icons=true&theme=github_dark)
